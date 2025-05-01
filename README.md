@@ -6,7 +6,7 @@
 | What's Inside This Repository:- |
 | --------- |
 
-- This Repository contains __all the CNCF Projects and Products I have evaluated till date__. List follows below:-
+This Repository contains __all the CNCF Projects and Products I have evaluated till date__. List follows below:-
 
 | # | Category Name  | Project & Product Name |
 | --------- | --------- | --------- |
