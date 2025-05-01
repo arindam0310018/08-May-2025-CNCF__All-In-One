@@ -1,6 +1,6 @@
 # PACKER:-
 
-|  |
+| <img src="../Images/02-Packer.jpg" alt="Packer"> |
 | --------- |
 
 | __DATE__ | __TOPICS__ | __BLOG__ | __GITHUB__ |
