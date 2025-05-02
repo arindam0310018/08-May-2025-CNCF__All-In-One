@@ -7,6 +7,8 @@
 |:---------:|:---------:|:-------|:-------|
 | 14.04.2022 | Fetch secrets with no access to key vault using Devops pipelines | https://dev.to/arindam0310018/fetch-secrets-with-no-access-to-key-vault-using-devops-pipelines-54h3 | https://github.com/arindam0310018/14-Apr-2022-DevOps__Fetch-Secrets-With-No-Access-To-KeyVault | 
 
+| SPEAKER PRESENTATION:- |
+| --------- |
 
  | __#__ | __TOPICS__ | __TECH COMMUNITY NAME__ | __SPEAKER SESSION TYPE__ | __DURATION__ | __RECORDING__ |
  |:---------:|:---------:|:---------:|:-------:|:-------:|:-------:|
