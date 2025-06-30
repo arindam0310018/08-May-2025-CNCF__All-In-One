@@ -13,7 +13,7 @@ This Repository contains __all the CNCF Projects and Products I have evaluated t
 | 1. | Application Defination & Image Build | __Packer__ |
 | 2. | Continous Integration & Delivery | __Azure Pipelines; Github Actions__ |
 | 3. | Scheduling  & Orchestration | __Crossplane__ |
-| 4. | Security & Compliance | __Aquasec Trivy__ |
+| 4. | Security & Compliance | __Aqua Trivy__ |
 | 5. | Container Registry | __Azure Container Registry__ |
 | 6. | Automation & Configuration | __Terraform__ |
 
